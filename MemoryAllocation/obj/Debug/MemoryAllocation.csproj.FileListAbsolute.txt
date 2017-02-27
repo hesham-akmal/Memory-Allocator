@@ -1,0 +1,9 @@
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\bin\Debug\MemoryAllocation.exe.config
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\bin\Debug\MemoryAllocation.exe
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\bin\Debug\MemoryAllocation.pdb
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.csprojResolveAssemblyReference.cache
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.Form1.resources
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.Properties.Resources.resources
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.csproj.GenerateResource.Cache
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.exe
+c:\users\hesha\documents\visual studio 2015\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.pdb
